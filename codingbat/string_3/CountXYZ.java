@@ -3,6 +3,7 @@ package string_3;
 public class CountXYZ {
 	public static void main(String[] args) {
 		System.out.println(countYZ_method("DAY abc XYZ"));
+		//some changes
 	}
 	
 	public static int countYZ_method(String str) {
