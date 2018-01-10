@@ -15,7 +15,7 @@ public class EqualIsNot {
 		{
 			ending = 1;
 		}
-		//
+		//smt
 		
 		for(int i = 0; i < str.length() - ending; i++)
 		{
